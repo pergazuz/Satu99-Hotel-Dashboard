@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![preview_dashboard](https://github.com/pergazuz/Satu99-Hotel-Dashboard/assets/87386860/04c7ca52-e18c-4a05-9129-76c45a193cd1)
+
 
 ## Getting Started
 
