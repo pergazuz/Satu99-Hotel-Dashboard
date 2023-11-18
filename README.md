@@ -1,4 +1,17 @@
+# Hotel Employee Turnover Dashboard
+
 ![preview_dashboard](https://github.com/pergazuz/Satu99-Hotel-Dashboard/assets/87386860/04c7ca52-e18c-4a05-9129-76c45a193cd1)
+
+## Overview
+The Hotel Employee Turnover Dashboard is a comprehensive tool designed to track and analyze the turnover rates of employees in a hotel organization. This dashboard aims to provide insights into the patterns and reasons behind employee departures, enabling management to make informed decisions to improve employee retention and satisfaction.
+
+## Features
+
+- **Turnover Analytics**: Detailed visualizations of turnover rates by department, tenure, age group, and other relevant factors.
+- **Reasons for Leaving**: Categorization of reasons for employee departures such as retirement, relocation, career change, etc.
+- **Retention Strategies**: Data-driven suggestions for improving employee retention based on the analyzed trends.
+- **User-Friendly Interface**: Easy-to-navigate dashboard with interactive elements for a seamless user experience.
+- **Real-Time Data Processing**: Integration with the hotel’s HR system for real-time tracking and updates.
 
 
 ## Getting Started
